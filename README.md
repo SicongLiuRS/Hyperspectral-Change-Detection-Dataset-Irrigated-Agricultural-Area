@@ -29,19 +29,19 @@ The major land-cover changes in this scenario are due to the transitions among d
 
 ## Class Information
 
-**_Change Class 1_**: 1034 pixels
+**_Change Class 1 (C1)_**: 1034 pixels
 
-**_Change Class 2_**: 1048 pixels
+**_Change Class 2 (C2)_**: 1048 pixels
 
-**_Change Class 3_**: 5111 pixels
+**_Change Class 3 (C3)_**: 5111 pixels
 
-**_Change Class 4_**: 1261 pixels
+**_Change Class 4 (C4)_**: 1261 pixels
 
-**_Change Class 5_**: 479 pixels
+**_Change Class 5 (C5)_**: 479 pixels
 
-**_Change Class 6_**: 988 pixels
+**_Change Class 6 (C6)_**: 988 pixels
 
-**_No-change Class_**: 30579 pixels
+**_No-change Class (NC)_**: 30579 pixels
 
 **_Total_**: 40500 pixels
 
