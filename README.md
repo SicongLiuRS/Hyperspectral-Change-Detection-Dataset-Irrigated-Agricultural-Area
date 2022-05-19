@@ -50,9 +50,9 @@ The major land-cover changes in this scenario are due to the transitions among d
 
 If you use this data set for your research, please cite the following papers.
 
-[1] S. Liu, D. Marinelli, L. Bruzzone and F. Bovolo, "A Review of Change Detection in Multitemporal Hyperspectral Images: Current Techniques, Applications, and Challenges," IEEE Geoscience and Remote Sensing Magazine, vol. 7, no. 2, pp:140-158, 2019. [[DOI: 10.1109/MGRS.2019.2898520](10.1109/MGRS.2019.2898520)]
+[1] S. Liu, D. Marinelli, L. Bruzzone and F. Bovolo, "A Review of Change Detection in Multitemporal Hyperspectral Images: Current Techniques, Applications, and Challenges," IEEE Geoscience and Remote Sensing Magazine, vol. 7, no. 2, pp:140-158, 2019. [DOI: 10.1109/MGRS.2019.2898520](https://ieeexplore.ieee.org/document/8738052)
 
-[2] S. Liu, Q. Du, X. Tong, A. Samat, H. Pan , X. Ma, “Band Selection based Dimensionality Reduction for Change Detection in Multitemporal Hyperspectral Images,”Remote Sensing, vol. 9, no.10, pp:1008, 2017. [DOI: 10.3390/rs9101008]
+[2] S. Liu, Q. Du, X. Tong, A. Samat, H. Pan , X. Ma, “Band Selection based Dimensionality Reduction for Change Detection in Multitemporal Hyperspectral Images,”Remote Sensing, vol. 9, no.10, pp:1008, 2017. [DOI: 10.3390/rs9101008](https://www.mdpi.com/2072-4292/9/10/1008)
 
-[3] S. Liu, L. Bruzzone, F. Bovolo, P. Du., “Unsupervised Multitemporal Spectral Unmixing for Detecting Multiple Changes in Hyperspectral Images,”IEEE Transactions on Geoscience and Remote Sensing, vol.54, no. 5, pp:2733-2748, 2016. [DOI: 10.1109/TGRS.2015.2505183]
+[3] S. Liu, L. Bruzzone, F. Bovolo, P. Du., “Unsupervised Multitemporal Spectral Unmixing for Detecting Multiple Changes in Hyperspectral Images,”IEEE Transactions on Geoscience and Remote Sensing, vol.54, no. 5, pp:2733-2748, 2016. [DOI: 10.1109/TGRS.2015.2505183](https://ieeexplore.ieee.org/document/7378967)
 
